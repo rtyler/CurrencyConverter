@@ -1,0 +1,18 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {exchange = id; }; 
+            CLASS = ExchangeController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                firstCountry = NSPopUpButton; 
+                inputField = NSTextField; 
+                outputField = NSTextField; 
+                secondCountry = NSPopUpButton; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

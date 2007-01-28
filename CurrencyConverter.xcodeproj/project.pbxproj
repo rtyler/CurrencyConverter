@@ -1,0 +1,457 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		2F66EBF90B6CF6610082E846 /* C# */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 2F66EBFC0B6CF67F0082E846 /* Build configuration list for PBXAggregateTarget "C#" */;
+			buildPhases = (
+				2F66EBF80B6CF6610082E846 /* ShellScript */,
+			);
+			dependencies = (
+			);
+			name = "C#";
+			productName = "C#";
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		2F66EBF30B6CF62B0082E846 /* Dumbarton.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F66EBF20B6CF62B0082E846 /* Dumbarton.framework */; };
+		2F66EC580B6CFA060082E846 /* MonoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F66EC570B6CFA060082E846 /* MonoController.m */; };
+		2F66EC610B6CFA8B0082E846 /* CurrencyConverter.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */; };
+		2F66ECAC0B6CFBAF0082E846 /* Dumbarton.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 2F66EBF20B6CF62B0082E846 /* Dumbarton.framework */; };
+		2F66ECD40B6CFC140082E846 /* ExchangeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */; };
+		2FB0C93A0B6D04C90071F726 /* Mono.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2FB0C9390B6D04C90071F726 /* Mono.framework */; };
+		8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 29B97318FDCFA39411CA2CEA /* MainMenu.nib */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2F66EC360B6CF9B50082E846 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2F66EBF90B6CF6610082E846;
+			remoteInfo = "C#";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2F66ECA60B6CFBA50082E846 /* Copy Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				2F66ECAC0B6CFBAF0082E846 /* Dumbarton.framework in Copy Frameworks */,
+			);
+			name = "Copy Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97319FDCFA39411CA2CEA /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		2F66EBF20B6CF62B0082E846 /* Dumbarton.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Dumbarton.framework; path = contrib/Dumbarton.framework; sourceTree = "<group>"; };
+		2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.csharp; name = CurrencyExchangeService.cs; path = csharp/CurrencyExchangeService.cs; sourceTree = "<group>"; };
+		2F66EC560B6CFA060082E846 /* MonoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MonoController.h; path = dumbarton/MonoController.h; sourceTree = "<group>"; };
+		2F66EC570B6CFA060082E846 /* MonoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MonoController.m; path = dumbarton/MonoController.m; sourceTree = "<group>"; };
+		2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CurrencyConverter.h; path = dumbarton/CurrencyConverter.h; sourceTree = "<group>"; };
+		2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CurrencyConverter.m; path = dumbarton/CurrencyConverter.m; sourceTree = "<group>"; };
+		2F66ECD10B6CFC140082E846 /* ExchangeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ExchangeController.h; path = cocoa/ExchangeController.h; sourceTree = "<group>"; };
+		2F66ECD20B6CFC140082E846 /* ExchangeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ExchangeController.m; path = cocoa/ExchangeController.m; sourceTree = "<group>"; };
+		2FB0C9390B6D04C90071F726 /* Mono.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Mono.framework; path = /Library/Frameworks/Mono.framework; sourceTree = "<absolute>"; };
+		32CA4F630368D1EE00C91783 /* CurrencyConverter_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CurrencyConverter_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* CurrencyConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				2F66EBF30B6CF62B0082E846 /* Dumbarton.framework in Frameworks */,
+				2FB0C93A0B6D04C90071F726 /* Mono.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				2F66EC3E0B6CF9D80082E846 /* Cocoa */,
+				2F66EC3F0B6CF9DD0082E846 /* Dumbarton */,
+				2F66EBF60B6CF6310082E846 /* C# */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2FB0C9390B6D04C90071F726 /* Mono.framework */,
+				2F66EBF20B6CF62B0082E846 /* Dumbarton.framework */,
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* CurrencyConverter.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CurrencyConverter */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CurrencyConverter;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* CurrencyConverter_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107310486CEB800E47090 /* Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2F66EBF60B6CF6310082E846 /* C# */ = {
+			isa = PBXGroup;
+			children = (
+				2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */,
+			);
+			name = "C#";
+			sourceTree = "<group>";
+		};
+		2F66EC3E0B6CF9D80082E846 /* Cocoa */ = {
+			isa = PBXGroup;
+			children = (
+				2F66ECD10B6CFC140082E846 /* ExchangeController.h */,
+				2F66ECD20B6CFC140082E846 /* ExchangeController.m */,
+			);
+			name = Cocoa;
+			sourceTree = "<group>";
+		};
+		2F66EC3F0B6CF9DD0082E846 /* Dumbarton */ = {
+			isa = PBXGroup;
+			children = (
+				2F66EC560B6CFA060082E846 /* MonoController.h */,
+				2F66EC570B6CFA060082E846 /* MonoController.m */,
+				2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */,
+				2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */,
+			);
+			name = Dumbarton;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* CurrencyConverter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "CurrencyConverter" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+				2F66EC320B6CF9A10082E846 /* Move DLLs */,
+				2F66ECA60B6CFBA50082E846 /* Copy Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2F66EC370B6CF9B50082E846 /* PBXTargetDependency */,
+			);
+			name = CurrencyConverter;
+			productInstallPath = "$(HOME)/Applications";
+			productName = CurrencyConverter;
+			productReference = 8D1107320486CEB800E47090 /* CurrencyConverter.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CurrencyConverter" */;
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CurrencyConverter */;
+			projectDirPath = "";
+			targets = (
+				8D1107260486CEB800E47090 /* CurrencyConverter */,
+				2F66EBF90B6CF6610082E846 /* C# */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */,
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2F66EBF80B6CF6610082E846 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "CSHARP_DIR=\"csharp/\"\n\necho \"===> Building the C# code in ${CSHARP_DIR}\"\n\ncd ${CSHARP_DIR} && gmcs -target:library -r:System.Web.Services.dll -out:CurrencyExchangeService.dll *.cs";
+		};
+		2F66EC320B6CF9A10082E846 /* Move DLLs */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Move DLLs";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "OUTDIR=\"$TARGET_BUILD_DIR/$FULL_PRODUCT_NAME/Contents/Libraries\"\n\necho \"====> Copying DLLs to ${OUTDIR}\"\nmkdir -p ${OUTDIR}\n\nmv ./csharp/*.dll ${OUTDIR}\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				2F66EC580B6CFA060082E846 /* MonoController.m in Sources */,
+				2F66EC610B6CFA8B0082E846 /* CurrencyConverter.m in Sources */,
+				2F66ECD40B6CFC140082E846 /* ExchangeController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2F66EC370B6CF9B50082E846 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2F66EBF90B6CF6610082E846 /* C# */;
+			targetProxy = 2F66EC360B6CF9B50082E846 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		29B97318FDCFA39411CA2CEA /* MainMenu.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				29B97319FDCFA39411CA2CEA /* English */,
+			);
+			name = MainMenu.nib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2F66EBFD0B6CF67F0082E846 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = "C#";
+			};
+			name = Debug;
+		};
+		2F66EBFE0B6CF67F0082E846 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				PRODUCT_NAME = "C#";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_1 = "\"$(SRCROOT)/contrib\"";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = CurrencyConverter;
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_1 = "\"$(SRCROOT)/contrib\"";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_MODEL_TUNING = G5;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = CurrencyConverter;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Library/Frameworks/Mono.framework/Headers/mono-1.0",
+					/Library/Frameworks/Mono.framework/Headers,
+					"/Library/Frameworks/Mono.framework/Libraries/glib-2.0/include",
+					"/Library/Frameworks/Mono.framework/Headers/glib-2.0",
+					"$(inherited)",
+				);
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Library/Frameworks/Mono.framework/Headers/mono-1.0",
+					/Library/Frameworks/Mono.framework/Headers,
+					"/Library/Frameworks/Mono.framework/Libraries/glib-2.0/include",
+					"/Library/Frameworks/Mono.framework/Headers/glib-2.0",
+					"$(inherited)",
+				);
+				PREBINDING = NO;
+				SDKROOT = /Developer/SDKs/MacOSX10.4u.sdk;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2F66EBFC0B6CF67F0082E846 /* Build configuration list for PBXAggregateTarget "C#" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F66EBFD0B6CF67F0082E846 /* Debug */,
+				2F66EBFE0B6CF67F0082E846 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "CurrencyConverter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "CurrencyConverter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

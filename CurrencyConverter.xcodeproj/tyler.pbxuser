@@ -1,0 +1,1091 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 738}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {928, 738}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2F66EBE40B6CF6000082E846 /* CurrencyConverter */;
+		activeTarget = 8D1107260486CEB800E47090 /* CurrencyConverter */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* CurrencyConverter */,
+		);
+		breakpoints = (
+			2FB0C8FC0B6D03CA0071F726 /* ExchangeController.m:20 */,
+		);
+		breakpointsGroup = 2F66EC110B6CF70B0082E846 /* XCBreakpointsBucket */;
+		codeSenseManager = 2F66EBF10B6CF61F0082E846 /* Code sense */;
+		executables = (
+			2F66EBE40B6CF6000082E846 /* CurrencyConverter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					691,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					415,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 191692761;
+			PBXWorkspaceStateSaveDate = 191692761;
+		};
+		perUserProjectItems = {
+			2F66EC710B6CFB1A0082E846 /* PBXTextBookmark */ = 2F66EC710B6CFB1A0082E846 /* PBXTextBookmark */;
+			2F66EC720B6CFB1A0082E846 /* PBXTextBookmark */ = 2F66EC720B6CFB1A0082E846 /* PBXTextBookmark */;
+			2F66EC740B6CFB1A0082E846 /* PBXTextBookmark */ = 2F66EC740B6CFB1A0082E846 /* PBXTextBookmark */;
+			2F66EC750B6CFB1A0082E846 /* PBXTextBookmark */ = 2F66EC750B6CFB1A0082E846 /* PBXTextBookmark */;
+			2F66EC760B6CFB1A0082E846 /* PBXTextBookmark */ = 2F66EC760B6CFB1A0082E846 /* PBXTextBookmark */;
+			2F66EC780B6CFB1A0082E846 /* PBXTextBookmark */ = 2F66EC780B6CFB1A0082E846 /* PBXTextBookmark */;
+			2F66ECCA0B6CFBBF0082E846 /* PBXTextBookmark */ = 2F66ECCA0B6CFBBF0082E846 /* PBXTextBookmark */;
+			2F66ECCB0B6CFBBF0082E846 /* PBXTextBookmark */ = 2F66ECCB0B6CFBBF0082E846 /* PBXTextBookmark */;
+			2F66ECCE0B6CFBBF0082E846 /* PBXTextBookmark */ = 2F66ECCE0B6CFBBF0082E846 /* PBXTextBookmark */;
+			2F66ECE40B6CFD310082E846 /* PBXTextBookmark */ = 2F66ECE40B6CFD310082E846 /* PBXTextBookmark */;
+			2F66ECE50B6CFD310082E846 /* PBXTextBookmark */ = 2F66ECE50B6CFD310082E846 /* PBXTextBookmark */;
+			2F66ECE60B6CFD310082E846 /* PBXTextBookmark */ = 2F66ECE60B6CFD310082E846 /* PBXTextBookmark */;
+			2F66ECE80B6CFD310082E846 /* PBXTextBookmark */ = 2F66ECE80B6CFD310082E846 /* PBXTextBookmark */;
+			2F66ECEA0B6CFD310082E846 /* PBXTextBookmark */ = 2F66ECEA0B6CFD310082E846 /* PBXTextBookmark */;
+			2F66ECEB0B6CFD310082E846 /* PBXTextBookmark */ = 2F66ECEB0B6CFD310082E846 /* PBXTextBookmark */;
+			2F66ED050B6CFF5A0082E846 /* PBXTextBookmark */ = 2F66ED050B6CFF5A0082E846 /* PBXTextBookmark */;
+			2FB0C86D0B6D00450071F726 /* PBXTextBookmark */ = 2FB0C86D0B6D00450071F726 /* PBXTextBookmark */;
+			2FB0C86E0B6D00450071F726 /* PBXTextBookmark */ = 2FB0C86E0B6D00450071F726 /* PBXTextBookmark */;
+			2FB0C86F0B6D00450071F726 /* PBXTextBookmark */ = 2FB0C86F0B6D00450071F726 /* PBXTextBookmark */;
+			2FB0C8790B6D00750071F726 /* PBXTextBookmark */ = 2FB0C8790B6D00750071F726 /* PBXTextBookmark */;
+			2FB0C8A20B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8A20B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8A40B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8A40B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8A60B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8A60B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8A80B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8A80B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8AD0B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8AD0B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8AE0B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8AE0B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8AF0B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8AF0B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8B10B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8B10B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8B20B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8B20B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8B40B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8B40B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8B50B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8B50B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8B70B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8B70B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8B90B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8B90B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8BB0B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8BB0B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8BD0B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8BD0B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8BF0B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8BF0B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8C00B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8C00B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8C20B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8C20B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8C30B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8C30B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8C40B6D026F0071F726 /* PBXTextBookmark */ = 2FB0C8C40B6D026F0071F726 /* PBXTextBookmark */;
+			2FB0C8DD0B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8DD0B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E00B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E00B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E10B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E10B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E20B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E20B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E30B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E30B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E40B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E40B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E50B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E50B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E60B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E60B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E70B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E70B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8E80B6D03240071F726 /* PBXTextBookmark */ = 2FB0C8E80B6D03240071F726 /* PBXTextBookmark */;
+			2FB0C8EE0B6D038C0071F726 /* PBXTextBookmark */ = 2FB0C8EE0B6D038C0071F726 /* PBXTextBookmark */;
+			2FB0C8EF0B6D038C0071F726 /* PBXTextBookmark */ = 2FB0C8EF0B6D038C0071F726 /* PBXTextBookmark */;
+			2FB0C8F00B6D038C0071F726 /* PBXTextBookmark */ = 2FB0C8F00B6D038C0071F726 /* PBXTextBookmark */;
+			2FB0C8FF0B6D03DA0071F726 /* PBXTextBookmark */ = 2FB0C8FF0B6D03DA0071F726 /* PBXTextBookmark */;
+			2FB0C9020B6D03DA0071F726 /* PBXTextBookmark */ = 2FB0C9020B6D03DA0071F726 /* PBXTextBookmark */;
+			2FB0C9030B6D03DA0071F726 /* PBXTextBookmark */ = 2FB0C9030B6D03DA0071F726 /* PBXTextBookmark */;
+			2FB0C9040B6D03DA0071F726 /* PBXTextBookmark */ = 2FB0C9040B6D03DA0071F726 /* PBXTextBookmark */;
+			2FB0C93F0B6D04D10071F726 /* PBXTextBookmark */ = 2FB0C93F0B6D04D10071F726 /* PBXTextBookmark */;
+			2FB0C9400B6D04D10071F726 /* PBXTextBookmark */ = 2FB0C9400B6D04D10071F726 /* PBXTextBookmark */;
+			2FB0C9420B6D04D10071F726 /* PBXTextBookmark */ = 2FB0C9420B6D04D10071F726 /* PBXTextBookmark */;
+			2FB0C9430B6D04D10071F726 /* PBXTextBookmark */ = 2FB0C9430B6D04D10071F726 /* PBXTextBookmark */;
+			2FB0C9440B6D04D10071F726 /* PBXTextBookmark */ = 2FB0C9440B6D04D10071F726 /* PBXTextBookmark */;
+			2FB0C9990B6D08330071F726 /* PBXTextBookmark */ = 2FB0C9990B6D08330071F726 /* PBXTextBookmark */;
+			2FB0C99A0B6D08330071F726 /* PBXTextBookmark */ = 2FB0C99A0B6D08330071F726 /* PBXTextBookmark */;
+			2FB0C99B0B6D08330071F726 /* PBXTextBookmark */ = 2FB0C99B0B6D08330071F726 /* PBXTextBookmark */;
+			2FB0C99D0B6D08330071F726 /* PBXTextBookmark */ = 2FB0C99D0B6D08330071F726 /* PBXTextBookmark */;
+			2FB0C99E0B6D08330071F726 /* PBXTextBookmark */ = 2FB0C99E0B6D08330071F726 /* PBXTextBookmark */;
+			2FB0C99F0B6D08330071F726 /* PBXTextBookmark */ = 2FB0C99F0B6D08330071F726 /* PBXTextBookmark */;
+			2FB0C9A00B6D08330071F726 /* PBXTextBookmark */ = 2FB0C9A00B6D08330071F726 /* PBXTextBookmark */;
+			2FB0C9CE0B6D08AA0071F726 /* PBXTextBookmark */ = 2FB0C9CE0B6D08AA0071F726 /* PBXTextBookmark */;
+			2FB0C9CF0B6D08AA0071F726 /* PBXTextBookmark */ = 2FB0C9CF0B6D08AA0071F726 /* PBXTextBookmark */;
+			2FB0C9D30B6D08B50071F726 /* PBXTextBookmark */ = 2FB0C9D30B6D08B50071F726 /* PBXTextBookmark */;
+			2FB0C9D40B6D08B50071F726 /* PBXTextBookmark */ = 2FB0C9D40B6D08B50071F726 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2F66EBF00B6CF61F0082E846 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2F66EBE40B6CF6000082E846 /* CurrencyConverter */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CurrencyConverter;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	2F66EBF00B6CF61F0082E846 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	2F66EBF10B6CF61F0082E846 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {998, 733}}";
+			sepNavSelRange = "{1991, 0}";
+			sepNavVisRect = "{{0, 0}, {883, 733}}";
+			sepNavWindowFrame = "{{1856, 109}, {958, 789}}";
+		};
+	};
+	2F66EBF90B6CF6610082E846 /* C# */ = {
+		activeExec = 0;
+	};
+	2F66EC110B6CF70B0082E846 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			2FB0C8FC0B6D03CA0071F726 /* ExchangeController.m:20 */,
+		);
+	};
+	2F66EC560B6CFA060082E846 /* MonoController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 733}}";
+			sepNavSelRange = "{205, 0}";
+			sepNavVisRect = "{{0, 0}, {883, 733}}";
+			sepNavWindowFrame = "{{1833, 130}, {958, 789}}";
+		};
+	};
+	2F66EC570B6CFA060082E846 /* MonoController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 733}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRect = "{{0, 0}, {883, 733}}";
+			sepNavWindowFrame = "{{1695, 256}, {958, 789}}";
+		};
+	};
+	2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 734}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRect = "{{0, 0}, {883, 734}}";
+		};
+	};
+	2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 734}}";
+			sepNavSelRange = "{801, 0}";
+			sepNavVisRect = "{{0, 0}, {883, 734}}";
+		};
+	};
+	2F66EC710B6CFB1A0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC570B6CFA060082E846 /* MonoController.m */;
+		name = "MonoController.m: 26";
+		rLen = 0;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 0;
+	};
+	2F66EC720B6CFB1A0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: 14";
+		rLen = 0;
+		rLoc = 272;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	2F66EC740B6CFB1A0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */;
+		name = "CurrencyExchangeService.cs: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1559;
+		vrLoc = 413;
+	};
+	2F66EC750B6CFB1A0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC570B6CFA060082E846 /* MonoController.m */;
+		name = "MonoController.m: 31";
+		rLen = 0;
+		rLoc = 878;
+		rType = 0;
+		vrLen = 873;
+		vrLoc = 0;
+	};
+	2F66EC760B6CFB1A0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	2F66EC780B6CFB1A0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 225;
+		vrLoc = 0;
+	};
+	2F66ECCA0B6CFBBF0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 10";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 451;
+		vrLoc = 0;
+	};
+	2F66ECCB0B6CFBBF0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = "Info.plist: 12";
+		rLen = 0;
+		rLoc = 413;
+		rType = 0;
+		vrLen = 853;
+		vrLoc = 0;
+	};
+	2F66ECCE0B6CFBBF0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		name = "Info.plist: 12";
+		rLen = 0;
+		rLoc = 413;
+		rType = 0;
+		vrLen = 853;
+		vrLoc = 0;
+	};
+	2F66ECD10B6CFC140082E846 /* ExchangeController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 350}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	2F66ECD20B6CFC140082E846 /* ExchangeController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {883, 734}}";
+			sepNavSelRange = "{706, 0}";
+			sepNavVisRect = "{{0, 0}, {883, 734}}";
+		};
+	};
+	2F66ECE40B6CFD310082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "English: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 93;
+		vrLoc = 0;
+	};
+	2F66ECE50B6CFD310082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */;
+		name = "CurrencyExchangeService.cs: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1972;
+		vrLoc = 0;
+	};
+	2F66ECE60B6CFD310082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 21";
+		rLen = 0;
+		rLoc = 708;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	2F66ECE80B6CFD310082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "English: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 93;
+		vrLoc = 0;
+	};
+	2F66ECEA0B6CFD310082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD10B6CFC140082E846 /* ExchangeController.h */;
+		name = "ExchangeController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	2F66ECEB0B6CFD310082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 13";
+		rLen = 0;
+		rLoc = 710;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	2F66ED050B6CFF5A0082E846 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD10B6CFC140082E846 /* ExchangeController.h */;
+		name = "ExchangeController.h: firstCountry";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	2FB0C86D0B6D00450071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 25";
+		rLen = 0;
+		rLoc = 1002;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 0;
+	};
+	2FB0C86E0B6D00450071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 15";
+		rLen = 0;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	2FB0C86F0B6D00450071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 25";
+		rLen = 0;
+		rLoc = 1002;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 0;
+	};
+	2FB0C8790B6D00750071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC570B6CFA060082E846 /* MonoController.m */;
+		name = "MonoController.m: 26";
+		rLen = 0;
+		rLoc = 762;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 0;
+	};
+	2FB0C8A20B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8A30B6D026F0071F726 /* DBWrappedString.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1160;
+		vrLoc = 0;
+	};
+	2FB0C8A30B6D026F0071F726 /* DBWrappedString.h */ = {
+		isa = PBXFileReference;
+		name = DBWrappedString.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBWrappedString.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8A40B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8A50B6D026F0071F726 /* DBWrappers.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 935;
+		vrLoc = 0;
+	};
+	2FB0C8A50B6D026F0071F726 /* DBWrappers.h */ = {
+		isa = PBXFileReference;
+		name = DBWrappers.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBWrappers.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8A60B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8A70B6D026F0071F726 /* DBDataCategory.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 0;
+	};
+	2FB0C8A70B6D026F0071F726 /* DBDataCategory.h */ = {
+		isa = PBXFileReference;
+		name = DBDataCategory.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBDataCategory.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8A80B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8A90B6D026F0071F726 /* DBConvert.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2031;
+		vrLoc = 0;
+	};
+	2FB0C8A90B6D026F0071F726 /* DBConvert.h */ = {
+		isa = PBXFileReference;
+		name = DBConvert.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBConvert.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8AD0B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 24";
+		rLen = 0;
+		rLoc = 716;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	2FB0C8AE0B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 25";
+		rLen = 0;
+		rLoc = 752;
+		rType = 0;
+		vrLen = 667;
+		vrLoc = 0;
+	};
+	2FB0C8AF0B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8B00B6D026F0071F726 /* DBMonoObjectRepresentation.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1955;
+		vrLoc = 53;
+	};
+	2FB0C8B00B6D026F0071F726 /* DBMonoObjectRepresentation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = DBMonoObjectRepresentation.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBMonoObjectRepresentation.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 1134}}";
+			sepNavSelRange = "{1410, 0}";
+			sepNavVisRect = "{{0, 463}, {913, 660}}";
+			sepNavWindowFrame = "{{1718, 235}, {958, 789}}";
+		};
+	};
+	2FB0C8B10B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 27";
+		rLen = 0;
+		rLoc = 1037;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 0;
+	};
+	2FB0C8B20B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8B30B6D026F0071F726 /* DBMonoObjectRepresentation.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1877;
+		vrLoc = 996;
+	};
+	2FB0C8B30B6D026F0071F726 /* DBMonoObjectRepresentation.h */ = {
+		isa = PBXFileReference;
+		name = DBMonoObjectRepresentation.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBMonoObjectRepresentation.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8B40B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 27";
+		rLen = 0;
+		rLoc = 801;
+		rType = 0;
+		vrLen = 796;
+		vrLoc = 0;
+	};
+	2FB0C8B50B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8B60B6D026F0071F726 /* DBMonoObjectRepresentation.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1872;
+		vrLoc = 857;
+	};
+	2FB0C8B60B6D026F0071F726 /* DBMonoObjectRepresentation.h */ = {
+		isa = PBXFileReference;
+		name = DBMonoObjectRepresentation.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBMonoObjectRepresentation.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8B70B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8B80B6D026F0071F726 /* DBWrappedString.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1160;
+		vrLoc = 0;
+	};
+	2FB0C8B80B6D026F0071F726 /* DBWrappedString.h */ = {
+		isa = PBXFileReference;
+		name = DBWrappedString.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBWrappedString.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8B90B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8BA0B6D026F0071F726 /* DBWrappers.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 935;
+		vrLoc = 0;
+	};
+	2FB0C8BA0B6D026F0071F726 /* DBWrappers.h */ = {
+		isa = PBXFileReference;
+		name = DBWrappers.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBWrappers.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8BB0B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8BC0B6D026F0071F726 /* DBDataCategory.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1077;
+		vrLoc = 0;
+	};
+	2FB0C8BC0B6D026F0071F726 /* DBDataCategory.h */ = {
+		isa = PBXFileReference;
+		name = DBDataCategory.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBDataCategory.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8BD0B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8BE0B6D026F0071F726 /* DBConvert.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2031;
+		vrLoc = 0;
+	};
+	2FB0C8BE0B6D026F0071F726 /* DBConvert.h */ = {
+		isa = PBXFileReference;
+		name = DBConvert.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBConvert.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8BF0B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 27";
+		rLen = 0;
+		rLoc = 801;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 0;
+	};
+	2FB0C8C00B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8C10B6D026F0071F726 /* DBConvert.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2031;
+		vrLoc = 0;
+	};
+	2FB0C8C10B6D026F0071F726 /* DBConvert.h */ = {
+		isa = PBXFileReference;
+		name = DBConvert.h;
+		path = /Software/Subversion/trunk/CurrencyConverter/contrib/Dumbarton.framework/Headers/DBConvert.h;
+		sourceTree = "<absolute>";
+	};
+	2FB0C8C20B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "- (int32_t *)exchangeCurrency:(double)money fromCurrency:(NSString *)country1 toCurrency:(NSString *)country2";
+		rLen = 104;
+		rLoc = 452;
+		rType = 0;
+		vrLen = 831;
+		vrLoc = 0;
+	};
+	2FB0C8C30B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: exchangeCurrency:fromCurrency:toCurrency:";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	2FB0C8C40B6D026F0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 26";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 0;
+	};
+	2FB0C8DD0B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8B00B6D026F0071F726 /* DBMonoObjectRepresentation.h */;
+		name = "DBMonoObjectRepresentation.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1872;
+		vrLoc = 857;
+	};
+	2FB0C8E00B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 25";
+		rLen = 0;
+		rLoc = 798;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	2FB0C8E10B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC560B6CFA060082E846 /* MonoController.h */;
+		name = "MonoController.h: 10";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 0;
+	};
+	2FB0C8E20B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 26";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 0;
+	};
+	2FB0C8E30B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: exchangeCurrency:fromCurrency:toCurrency:";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	2FB0C8E40B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 25";
+		rLen = 0;
+		rLoc = 798;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	2FB0C8E50B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: exchangeCurrency:fromCurrency:toCurrency:";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	2FB0C8E60B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2FB0C8B00B6D026F0071F726 /* DBMonoObjectRepresentation.h */;
+		name = "DBMonoObjectRepresentation.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1872;
+		vrLoc = 857;
+	};
+	2FB0C8E70B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 20";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	2FB0C8E80B6D03240071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */;
+		name = "CurrencyExchangeService.cs: 51";
+		rLen = 0;
+		rLoc = 1991;
+		rType = 0;
+		vrLen = 1991;
+		vrLoc = 0;
+	};
+	2FB0C8EE0B6D038C0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 15";
+		rLen = 0;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 839;
+		vrLoc = 0;
+	};
+	2FB0C8EF0B6D038C0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */;
+		name = "CurrencyExchangeService.cs: 51";
+		rLen = 0;
+		rLoc = 1991;
+		rType = 0;
+		vrLen = 1991;
+		vrLoc = 0;
+	};
+	2FB0C8F00B6D038C0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 15";
+		rLen = 0;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 839;
+		vrLoc = 0;
+	};
+	2FB0C8FC0B6D03CA0071F726 /* ExchangeController.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		functionName = "-exchange:";
+		hitCount = 1;
+		lineNumber = 20;
+		location = CurrencyConverter;
+		modificationTime = 191694573.845946;
+		state = 1;
+	};
+	2FB0C8FF0B6D03DA0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */;
+		name = "CurrencyExchangeService.cs: 51";
+		rLen = 0;
+		rLoc = 1991;
+		rType = 0;
+		vrLen = 1991;
+		vrLoc = 0;
+	};
+	2FB0C9020B6D03DA0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EBF70B6CF6420082E846 /* CurrencyExchangeService.cs */;
+		name = "CurrencyExchangeService.cs: 51";
+		rLen = 0;
+		rLoc = 1991;
+		rType = 0;
+		vrLen = 1991;
+		vrLoc = 0;
+	};
+	2FB0C9030B6D03DA0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: exchangeCurrency:fromCurrency:toCurrency:";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	2FB0C9040B6D03DA0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 15";
+		rLen = 0;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 839;
+		vrLoc = 0;
+	};
+	2FB0C93F0B6D04D10071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC560B6CFA060082E846 /* MonoController.h */;
+		name = "MonoController.h: 10";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 0;
+	};
+	2FB0C9400B6D04D10071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC570B6CFA060082E846 /* MonoController.m */;
+		name = "MonoController.m: 19";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 0;
+	};
+	2FB0C9420B6D04D10071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 26";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 0;
+	};
+	2FB0C9430B6D04D10071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC560B6CFA060082E846 /* MonoController.h */;
+		name = "MonoController.h: 10";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 292;
+		vrLoc = 0;
+	};
+	2FB0C9440B6D04D10071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC570B6CFA060082E846 /* MonoController.m */;
+		name = "MonoController.m: 19";
+		rLen = 0;
+		rLoc = 384;
+		rType = 0;
+		vrLen = 885;
+		vrLoc = 0;
+	};
+	2FB0C9990B6D08330071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD10B6CFC140082E846 /* ExchangeController.h */;
+		name = "ExchangeController.h: 7";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	2FB0C99A0B6D08330071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 28";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 0;
+	};
+	2FB0C99B0B6D08330071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "- (float)exchangeCurrency:(float)money fromCurrency:(NSString *)country1 toCurrency:(NSString *)country2";
+		rLen = 105;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	2FB0C99D0B6D08330071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 31";
+		rLen = 0;
+		rLoc = 960;
+		rType = 0;
+		vrLen = 1017;
+		vrLoc = 0;
+	};
+	2FB0C99E0B6D08330071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD10B6CFC140082E846 /* ExchangeController.h */;
+		name = "ExchangeController.h: 7";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	2FB0C99F0B6D08330071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD20B6CFC140082E846 /* ExchangeController.m */;
+		name = "ExchangeController.m: 28";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 716;
+		vrLoc = 0;
+	};
+	2FB0C9A00B6D08330071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "- (float)exchangeCurrency:(float)money fromCurrency:(NSString *)country1 toCurrency:(NSString *)country2";
+		rLen = 105;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	2FB0C9CE0B6D08AA0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: exchangeCurrency:fromCurrency:toCurrency:";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 0;
+	};
+	2FB0C9CF0B6D08AA0071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC5F0B6CFA8B0082E846 /* CurrencyConverter.h */;
+		name = "CurrencyConverter.h: exchangeCurrency:fromCurrency:toCurrency:";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 0;
+	};
+	2FB0C9D30B6D08B50071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66ECD10B6CFC140082E846 /* ExchangeController.h */;
+		name = "ExchangeController.h: firstCountry";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	2FB0C9D40B6D08B50071F726 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F66EC600B6CFA8B0082E846 /* CurrencyConverter.m */;
+		name = "CurrencyConverter.m: 28";
+		rLen = 0;
+		rLoc = 801;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* CurrencyConverter */ = {
+		activeExec = 0;
+		executables = (
+			2F66EBE40B6CF6000082E846 /* CurrencyConverter */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 738}}";
+			sepNavSelRange = "{413, 0}";
+			sepNavVisRect = "{{0, 0}, {928, 738}}";
+		};
+	};
+}
