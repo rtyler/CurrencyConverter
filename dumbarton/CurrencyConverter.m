@@ -21,16 +21,20 @@
 - (float)exchangeCurrency:(float)money fromCurrency:(NSString *)country1 toCurrency:(NSString *)country2
 {
 	NSLog(@"Converting %f from %@ to %@ currency", money, country1, country2);
-	MonoString *str1 = [country1 monoString];
-	MonoString *str2 = [country2 monoString];
+	MonoString *str1 = [[NSString stringWithString:@"usa"] monoString];
+	MonoString *str2 = [[NSString stringWithString:@"uk"] monoString];
 	
 	MonoObject *rateObj = [self invokeMethod:"getRate" withNumArgs:2,str1,str2];
 
-	NSString *rateStr = [NSString stringWithMonoString:DBMonoObjectInvoke(rateObj,"ToString",0,NULL)];
+	// Invoke the rateObj.ToString() to get a MonoString *
+	NSString *rateStr = [NSString stringWithMonoString:(MonoString *)(DBMonoObjectInvoke(rateObj,"ToString",0,NULL))];
 
-	NSLog(@"Converting %f at the rate: %@", money, rateStr);
+	NSLog(@"Converting %f at the rate: %@", money, rateStr);\
 	
-	return (money * [rateStr floatValue]);
+	if (rateStr != nil)
+		return (money * [rateStr floatValue]);
+	else
+		return 0.0;
 }
 
 

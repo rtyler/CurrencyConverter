@@ -8,6 +8,7 @@
                 firstCountry = NSPopUpButton; 
                 inputField = NSTextField; 
                 outputField = NSTextField; 
+                progress = NSProgressIndicator; 
                 secondCountry = NSPopUpButton; 
             }; 
             SUPERCLASS = NSObject; 

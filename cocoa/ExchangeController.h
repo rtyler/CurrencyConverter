@@ -16,9 +16,16 @@
 	IBOutlet NSTextField *inputField;
 	IBOutlet NSTextField *outputField;
 	
+	IBOutlet NSProgressIndicator *progress;
+	
 	CurrencyConverter *converter;
+	NSString *country1;
+	NSString *country2;
 }
 
 - (IBAction)exchange:(id)sender;
+
+- (void)exchangeMethod:(NSNumber *)number;
+- (void)exchangeFinished:(NSNotification *)notification;
 
 @end
