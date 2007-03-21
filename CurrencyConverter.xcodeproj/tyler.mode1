@@ -260,6 +260,10 @@
 								<string>2F66EBF60B6CF6310082E846</string>
 								<string>29B97315FDCFA39411CA2CEA</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
+								<string>29B97323FDCFA39411CA2CEA</string>
+								<string>1058C7A0FEA54F0111CA2CBB</string>
+								<string>2F66EBF20B6CF62B0082E846</string>
+								<string>2FB9932C0B71E477001C28C0</string>
 								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
@@ -267,14 +271,14 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>4</integer>
-									<integer>2</integer>
+									<integer>9</integer>
+									<integer>5</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {231, 757}}</string>
+							<string>{{0, 80}, {231, 757}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -321,7 +325,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>2FB993240B71DA8F001C28C0</string>
+										<string>2FB993620B71F416001C28C0</string>
 										<key>history</key>
 										<array>
 											<string>2F66EC710B6CFB1A0082E846</string>
@@ -331,7 +335,7 @@
 											<string>2F66ECE40B6CFD310082E846</string>
 											<string>2F66ECE50B6CFD310082E846</string>
 											<string>2F66ECE60B6CFD310082E846</string>
-											<string>2FB992430B719C20001C28C0</string>
+											<string>2FB993240B71DA8F001C28C0</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -371,7 +375,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ExchangeController.m</string>
+								<string>CurrencyConverter.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -379,11 +383,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ExchangeController.m</string>
+										<string>CurrencyConverter.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>2FB993250B71DA8F001C28C0</string>
+										<string>2FB993710B71F416001C28C0</string>
 										<key>history</key>
 										<array>
 											<string>2F66ECCB0B6CFBBF0082E846</string>
@@ -395,11 +399,11 @@
 											<string>2FB0C8DD0B6D03240071F726</string>
 											<string>2FB0C93F0B6D04D10071F726</string>
 											<string>2FB0C9400B6D04D10071F726</string>
-											<string>2FB992980B71A30C001C28C0</string>
-											<string>2FB992B30B71A3AC001C28C0</string>
-											<string>2FB992C10B71CD81001C28C0</string>
-											<string>2FB993190B71D972001C28C0</string>
-											<string>2FB9931A0B71D972001C28C0</string>
+											<string>2FB993630B71F416001C28C0</string>
+											<string>2FB993640B71F416001C28C0</string>
+											<string>2FB993650B71F416001C28C0</string>
+											<string>2FB993660B71F416001C28C0</string>
+											<string>2FB993670B71F416001C28C0</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -415,24 +419,18 @@
 											<string>2FB0C8BB0B6D026F0071F726</string>
 											<string>2FB0C8BD0B6D026F0071F726</string>
 											<string>2FB0C8E10B6D03240071F726</string>
-											<string>2FB992650B719CDA001C28C0</string>
-											<string>2FB9926C0B719D68001C28C0</string>
 											<string>2FB9929B0B71A30C001C28C0</string>
-											<string>2FB9929C0B71A30C001C28C0</string>
-											<string>2FB9929D0B71A30C001C28C0</string>
-											<string>2FB9929E0B71A30C001C28C0</string>
-											<string>2FB9929F0B71A30C001C28C0</string>
-											<string>2FB992B50B71A3AC001C28C0</string>
-											<string>2FB992B60B71A3AC001C28C0</string>
 											<string>2FB992B70B71A3AC001C28C0</string>
-											<string>2FB992B80B71A3AC001C28C0</string>
-											<string>2FB992C30B71CD81001C28C0</string>
-											<string>2FB992D00B71CE48001C28C0</string>
-											<string>2FB992FA0B71CF91001C28C0</string>
-											<string>2FB993000B71CFDF001C28C0</string>
-											<string>2FB9930F0B71D233001C28C0</string>
-											<string>2FB993100B71D233001C28C0</string>
-											<string>2FB9931B0B71D972001C28C0</string>
+											<string>2FB9933A0B71E481001C28C0</string>
+											<string>2FB993680B71F416001C28C0</string>
+											<string>2FB993690B71F416001C28C0</string>
+											<string>2FB9936A0B71F416001C28C0</string>
+											<string>2FB9936B0B71F416001C28C0</string>
+											<string>2FB9936C0B71F416001C28C0</string>
+											<string>2FB9936D0B71F416001C28C0</string>
+											<string>2FB9936E0B71F416001C28C0</string>
+											<string>2FB9936F0B71F416001C28C0</string>
+											<string>2FB993700B71F416001C28C0</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -491,9 +489,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>2FB9925B0B719C3E001C28C0</string>
+				<string>2FB9933C0B71E481001C28C0</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>2FB9925C0B719C3E001C28C0</string>
+				<string>2FB9933D0B71E481001C28C0</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
@@ -628,11 +626,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>2FB992EF0B71CF30001C28C0</string>
-		<string>2FB992F00B71CF30001C28C0</string>
-		<string>2FB0C90E0B6D03DA0071F726</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>2FB992ED0B71CF30001C28C0</string>
 		<string>2F66EC0F0B6CF70B0082E846</string>
 		<string>1C0AD2B3069F1EA900FABCE6</string>
 		<string>/Software/Subversion/trunk/CurrencyConverter/CurrencyConverter.xcodeproj</string>
@@ -676,12 +669,10 @@
 							<string>0pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXBuildLogShowsTranscriptDefaultKey</key>
-								<string>{{0, 174}, {643, 301}}</string>
+								<string>{{0, 109}, {643, 366}}</string>
 								<key>PBXProjectModuleGUID</key>
 								<string>XCMainBuildResultsModuleGUID</string>
 								<key>PBXProjectModuleLabel</key>
@@ -719,7 +710,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>2F66EC0F0B6CF70B0082E846</string>
-				<string>2FB9925D0B719C3E001C28C0</string>
+				<string>2FB993720B71F416001C28C0</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -730,7 +721,7 @@
 			<key>WindowToolGUID</key>
 			<string>2F66EC0F0B6CF70B0082E846</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -1091,9 +1082,9 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C0AD2B3069F1EA900FABCE6</string>
-				<string>2FB9925E0B719C3E001C28C0</string>
+				<string>2FB9933E0B71E481001C28C0</string>
 				<string>1CD0528B0623707200166675</string>
-				<string>2FB9925F0B719C3E001C28C0</string>
+				<string>2FB9933F0B71E481001C28C0</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.run</string>
